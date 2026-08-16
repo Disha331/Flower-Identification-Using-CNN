@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+flower_env/
+tf_env/
+tf_env_new/
+venv/
+data/flowers/
+models/flower_model.keras
+data - Shortcut.lnk
