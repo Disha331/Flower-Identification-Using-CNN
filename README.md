@@ -1,8 +1,6 @@
-# Flower-Identification-Using-CNN
-Developed an ML-based flower identification system using CNN to classify flower images into different categories with a user-friendly web interface.
 # 🌸 Flower Identification Using CNN
 
-A deep learning project that classifies flower images into different species using a trained CNN model. The model is connected to a Flask-based web application, allowing users to upload an image and get an instant prediction.
+Developed an ML-based flower identification system using CNN to classify flower images into different categories with a user-friendly web interface.
 
 ## Tech Stack
 
