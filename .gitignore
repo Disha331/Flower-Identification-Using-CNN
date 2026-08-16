@@ -223,3 +223,7 @@ venv/
 data/flowers/
 models/flower_model.keras
 data - Shortcut.lnk
+tf_env_new/
+tf_env/
+flower_env/
+venv/
